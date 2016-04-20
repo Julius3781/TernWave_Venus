@@ -1,0 +1,15 @@
+20/04/2016 08:10:41 devpinoyLogger Executing the test: TC001
+20/04/2016 08:10:41 devpinoyLogger  Executing GetUrl
+20/04/2016 08:10:48 devpinoyLogger Result of execution is: Pass
+20/04/2016 08:10:49 devpinoyLogger Executing ClickButton
+20/04/2016 08:10:50 devpinoyLogger Result of execution is: Pass
+20/04/2016 08:10:51 devpinoyLogger Executing EnterText
+20/04/2016 08:10:51 devpinoyLogger Result of execution is: Pass
+20/04/2016 08:10:52 devpinoyLogger Executing EnterText
+20/04/2016 08:10:52 devpinoyLogger Result of execution is: Pass
+20/04/2016 08:10:52 devpinoyLogger Executing ClickButton
+20/04/2016 08:11:02 devpinoyLogger Result of execution is: Pass
+20/04/2016 08:11:20 devpinoyLogger Executing verifyText
+20/04/2016 08:11:20 devpinoyLogger Notifications
+20/04/2016 08:11:20 devpinoyLogger Notifications
+20/04/2016 08:11:20 devpinoyLogger Result of execution is: Pass
